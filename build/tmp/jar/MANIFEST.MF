@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: luckyclover
+Specification-Vendor: Lavender
+Specification-Version: 1
+Implementation-Title: Artifacts-1.20
+Implementation-Version: 0.1-1.20.1
+Implementation-Vendor: Lavender
+Implementation-Timestamp: 2024-03-06T11:40:26-0800
+
